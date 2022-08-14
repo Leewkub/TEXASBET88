@@ -1,0 +1,174 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2021/08/03/2QuP1Z.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "animated": true
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://sprofile.line-scdn.net/0hNbu5mUQ-EU1YTAVgvGJvMigcEid7PUhfI3lWfm9JHS03fl5JJihdIj5EGCk2KANPfH1eKmpOSn1UX2YrRhrteV98T3pheVYScCNcqw",
+            "size": "full"
+          }
+        ],
+        "width": "100px",
+        "height": "100px",
+        "cornerRadius": "150px",
+        "position": "absolute",
+        "offsetStart": "100px",
+        "offsetTop": "130px",
+        "borderWidth": "3px",
+        "borderColor": "#000000"
+      },
+      {
+        "type": "text",
+        "text": "iton5",
+        "size": "lg",
+        "weight": "bold",
+        "margin": "50px",
+        "wrap": true,
+        "align": "center",
+        "color": "#be7c4d"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://media-public.canva.com/Kt-FM/MADIT2Kt-FM/2/tl.png",
+                "offsetTop": "5px"
+              },
+              {
+                "type": "text",
+                "text": "ยอดคงเหลือ 🥇",
+                "weight": "bold",
+                "margin": "sm",
+                "flex": 0,
+                "color": "#ffffff"
+              },
+              {
+                "type": "text",
+                "text": "300",
+                "align": "end",
+                "color": "#daff7d",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://media-public.canva.com/AwS70/MAE0wAAwS70/1/tl.png",
+                "offsetTop": "6px"
+              },
+              {
+                "type": "text",
+                "text": "ยอดการแชร์กิจกรรม",
+                "weight": "bold",
+                "margin": "sm",
+                "flex": 0,
+                "color": "#ffffff"
+              },
+              {
+                "type": "text",
+                "text": "5  ครั้ง",
+                "align": "end",
+                "color": "#daff7d",
+                "weight": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "ยอดการแชร์จะเกิดขึ้นได้ถ้าเพื่อนแชร์กิจกรรมต่อให้",
+        "wrap": true,
+        "color": "#aaaaaa",
+        "size": "xxs"
+      },
+      {
+        "type": "text",
+        "text": "ระยะเวลาดูเซ็ทฟรี ถ้าครบ 100% ถือว่าหมดเวลา หากต้องการดูต่อติดต่อ iton5\nเวลาล่าสุด : ",
+        "color": "#ffffff",
+        "align": "start",
+        "gravity": "center",
+        "size": "xs",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "50 %",
+        "color": "#ffffff",
+        "align": "start",
+        "size": "xs",
+        "gravity": "center",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "filler"
+              }
+            ],
+            "width": "50%",
+            "backgroundColor": "#daff7d",
+            "height": "6px"
+          }
+        ],
+        "backgroundColor": "#FAD2A76E",
+        "height": "6px",
+        "margin": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "color": "#905c44",
+            "action": {
+              "type": "uri",
+              "label": "แชร์กิจกรรม 🎉",
+              "uri": "https://google.com"
+            },
+            "height": "sm"
+          }
+        ],
+        "maxWidth": "190px",
+        "offsetStart": "50px",
+        "margin": "lg"
+      }
+    ],
+    "paddingAll": "10px",
+    "backgroundColor": "#000000"
+  }
+}
