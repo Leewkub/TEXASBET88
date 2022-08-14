@@ -1,0 +1,61 @@
+{
+  "type": "text", 
+  "text": "Promotion เดือนนี้",
+  "sender": {
+      "iconUrl": "https://media.giphy.com/media/XfUUeuLxDcJUO1Ymto/giphy.gif",
+      "name": "ผู้ช่วย"
+    },
+  "quickReply": {
+    "items": [
+      {
+        "type": "action",
+        "imageUrl": "https://media.giphy.com/media/2GSWYijE8WBCZntu8Y/giphy.gif",
+          "action": {
+   "type":"camera",
+   "label":"Camera"
+}
+      }, 
+      {
+        "type": "action",
+        "imageUrl": "https://media.giphy.com/media/2jmZBKiJFMzIAO5Izc/giphy.gif",
+         "action": {
+   "type":"cameraRoll",
+   "label":"Camera roll"
+}
+      },  {
+        "type": "action",
+        "imageUrl": "https://common.blogimg.jp/emoji/142510.gif",
+         "action": {
+   "type":"location",
+   "label":"Location"
+}
+      }, {
+        "type": "action",
+        "imageUrl": "https://video-public.canva.com/VADn8cJKP4w/v/3ba9ca938c.gif",
+        "action": {
+   "type":"postback",
+   "label":"Buy",
+   "data":"action=buy&itemid=111",
+   "text":"Buy"
+}
+      },{
+        "type": "action",
+        "imageUrl": "https://video-public.canva.com/VAEvYZwFHHc/v/96dc75f6ca.gif",
+         "action": {
+         "type": "uri",
+         "label": "google",
+         "uri": "https://google.com"
+   }
+      }, {
+        "type": "action",
+        "imageUrl": "https://video-public.canva.com/VADsKu9KREM/v/74f69a8e06.gif",
+        "action": {
+              "type": "datetimepicker",
+              "label": "จอง",
+              "data": "booking=123",
+              "mode": "datetime"
+            }
+      }
+    ]
+  }
+}
