@@ -1,0 +1,37 @@
+{
+  "line": {
+ "type": "flex",
+   "altText": "This is a Flex Message",
+   "contents": {
+    "type": "bubble",
+    "body": {
+     "type": "box",
+     "layout": "vertical",
+     "contents": [
+      {
+       "type": "button",
+       "style": "primary",
+       "height": "sm",
+        "margin":"sm",
+        "color":"#ff0000",
+       "action": {
+        "type": "message",
+          "label": "มัธยมศึกษาปีที่ 1",
+          "text": "มัธยมศึกษาปีที่ 1"
+       }
+      }, {
+       "type": "button",
+       "style": "primary",
+       "height": "sm",
+        "margin":"sm",
+       "action": {
+        "type": "uri",
+        "label": "คอร์สเรียน CAI Online",
+        "uri": "https://www.apivat.com/course-online/"
+       }
+      }
+     ]
+    }
+   }
+  }
+}
