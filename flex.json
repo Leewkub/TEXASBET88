@@ -1,0 +1,237 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "LIFF",
+    "contents": {
+      "type": "carousel",
+      "contents": [
+        {
+          "type": "bubble",
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img.in.th/images/48417b4d3d0496992511497558be0e9c.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "2:3",
+                "gravity": "top"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "IT HELP DESK",
+                        "size": "xl",
+                        "color": "#ffffff",
+                        "weight": "bold",
+                        "style": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "icon",
+                            "url": "https://cdn1.iconfinder.com/data/icons/business-456/500/idea-512.png",
+                            "size": "xl"
+                          },
+                          {
+                            "type": "text",
+                            "text": "CLICK",
+                            "color": "#ffffff",
+                            "offsetTop": "-2px",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://bpm.ondemand.in.th/servicedesk/customer/portal/4/user/login?destination=portal/4"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "spacing": "sm"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "xxl",
+                    "height": "40px"
+                  }
+                ],
+                "position": "absolute",
+                "offsetBottom": "0px",
+                "offsetStart": "0px",
+                "offsetEnd": "0px",
+                "backgroundColor": "#03303Acc",
+                "paddingAll": "20px",
+                "paddingTop": "18px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "NEW",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "size": "xs",
+                    "offsetTop": "3px"
+                  }
+                ],
+                "position": "absolute",
+                "cornerRadius": "20px",
+                "offsetTop": "18px",
+                "backgroundColor": "#ff334b",
+                "offsetStart": "18px",
+                "height": "25px",
+                "width": "53px"
+              }
+            ],
+            "paddingAll": "0px"
+          }
+        },
+        {
+          "type": "bubble",
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img.in.th/images/d661295d6ad31a546f9b42d4ae6d4cb6.jpg",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "2:3",
+                "gravity": "top"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "RAISE YOUR HAND",
+                        "size": "xl",
+                        "color": "#ffffff",
+                        "weight": "bold",
+                        "style": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "icon",
+                            "url": "https://cdn1.iconfinder.com/data/icons/business-456/500/idea-512.png",
+                            "size": "xl"
+                          },
+                          {
+                            "type": "text",
+                            "text": "CLICK",
+                            "color": "#ffffff",
+                            "offsetTop": "-2px",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://docs.google.com/forms/d/e/1FAIpQLScBF3orG1FRfqfS376C_TxIdhDRnIW33Wf0M0iaPUpKhEKLHg/viewform"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "spacing": "sm"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "xxl",
+                    "height": "40px"
+                  }
+                ],
+                "position": "absolute",
+                "offsetBottom": "0px",
+                "offsetStart": "0px",
+                "offsetEnd": "0px",
+                "backgroundColor": "#9C8E7Ecc",
+                "paddingAll": "20px",
+                "paddingTop": "18px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "NEW",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "size": "xs",
+                    "offsetTop": "3px"
+                  }
+                ],
+                "position": "absolute",
+                "cornerRadius": "20px",
+                "offsetTop": "18px",
+                "backgroundColor": "#ff334b",
+                "offsetStart": "18px",
+                "height": "25px",
+                "width": "53px"
+              }
+            ],
+            "paddingAll": "0px"
+          }
+        }
+      ]
+    }
+  }
+}
