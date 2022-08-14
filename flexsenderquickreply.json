@@ -1,0 +1,94 @@
+{
+  "type": "flex",
+  "altText": "this is a flex message",
+  "contents": {
+  "type": "bubble",
+  "size": "kilo",
+  "hero": {
+    "type": "image",
+    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+    "size": "full",
+    "aspectRatio": "16:3.5",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "อัพเดทล่าสุด",
+        "weight": "bold",
+        "wrap": true,
+        "align": "center",
+        "color": "#937e05",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ธีมต่างประเทศคลิก",
+              "uri": "https://store.line.me"
+            },
+            "style": "primary",
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "คลิกดูธีมครีเอเตอร์ ⏳",
+              "uri": "https://creator.line.me"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "md",
+            "color": "#989898"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แชร์ 📢",
+              "uri": "https://google.com"
+            },
+            "style": "primary",
+            "margin": "md",
+            "height": "sm",
+            "color": "#bc8e52"
+          }
+        ]
+      }
+    ],
+    "paddingAll": "10px"
+  }
+}, "sender": {
+      "iconUrl": "https://video-public.canva.com/VAEQmJMm6R8/v/a372d097e3.gif",
+      "name": "เลขาธีม 😁"
+    }, "quickReply": {
+    "items": [  
+          {
+        "type": "action",
+        "imageUrl": "https://video-public.canva.com/VADhwZBf_RY/v/0d1c3ca5c8.gif",
+          "action": {
+         "type": "uri",
+         "label": "ธีมทางการใหม่",
+         "uri": "https://line.me/R/shop/theme/showcase?id=new"
+   }
+      },      {
+        "type": "action",
+        "imageUrl": "https://media-public.canva.com/M7NGs/MAEwAnM7NGs/1/tl.png",
+          "action": {
+         "type": "uri",
+         "label": "สั่งซื้อ iton5",
+         "uri": "line://nv/profilePopup/mid=ufb9d34cac39cc328b9febede9f106341"
+   }
+      }
+    ]
+  }
+}
